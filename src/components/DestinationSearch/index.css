@@ -1,0 +1,21 @@
+/* Write your CSS here */
+
+.destination-container {
+  padding: 30px;
+}
+.heading {
+}
+.input {
+  border-width: 0px;
+  background-color: #f1f5f9;
+  padding: 10px;
+}
+.search-icon {
+  width: 30px;
+
+  background-color: #f1f5f9;
+}
+.input-container {
+  display: flex;
+  //justify-content: center;
+}
